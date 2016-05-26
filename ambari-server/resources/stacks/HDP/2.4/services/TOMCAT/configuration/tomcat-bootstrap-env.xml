@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+    <property>
+        <name>tomcat.install_dir</name>
+        <value>/opt</value>
+        <description>Local dir where to install component. tomcat folder will be created as a subdir of this dir e.g.
+            /opt/tomcat-7.0.55
+        </description>
+    </property>
+
+
+    <property>
+        <name>tomcat.log</name>
+        <value>/var/log/tomcat/tomcat.log</value>
+        <description>Log file for tomcat service commands used by amabari. Not the tomcat server logs</description>
+    </property>
+
+    <property>
+        <name>tomcat_log_dir</name>
+        <value>/var/log/tomcat</value>
+        <description>Tomcat Log dir</description>
+    </property>
+
+    <property>
+        <name>tomcat_pid_dir</name>
+        <value>/var/run/tomcat</value>
+        <description>Dir containing process ID file</description>
+    </property>
+
+    <property>
+        <name>tomcat_user</name>
+        <value>tomcat</value>
+        <description>User tomcat daemon runs as</description>
+    </property>
+
+    <property>
+        <name>tomcat_group</name>
+        <value>tomcat</value>
+        <description>Tomcat group</description>
+    </property>
+    <property>
+        <name>tomcat_download_url</name>
+        <value>http://master/oneapm/apache-tomcat-7.0.55.tar.gz</value>
+        <description>dowload url</description>
+    </property>
+</configuration>

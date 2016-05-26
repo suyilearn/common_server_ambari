@@ -1,0 +1,2 @@
+IP address forward resolution check started.
+All hosts resolved to an IP address.

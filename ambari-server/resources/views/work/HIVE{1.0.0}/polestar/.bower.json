@@ -1,0 +1,14 @@
+{
+  "name": "polestar",
+  "homepage": "https://github.com/hortonworks/polestar",
+  "version": "0.7.2",
+  "_release": "0.7.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.7.2",
+    "commit": "769e5808239d1f513b63a39690c5927dcade241a"
+  },
+  "_source": "https://github.com/hortonworks/polestar.git",
+  "_target": "0.7.2",
+  "_originalSource": "https://github.com/hortonworks/polestar.git"
+}

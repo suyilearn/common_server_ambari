@@ -1,0 +1,17 @@
+[processes]
+proc_list = 
+
+[directories]
+dir_list = 
+
+[alternatives]
+symlink_list = 
+target_list = 
+
+[users]
+usr_homedir_list = 
+usr_list = 
+
+[metadata]
+created = 2016-04-09 01:16:42.569441
+

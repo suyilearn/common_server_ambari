@@ -1,0 +1,14 @@
+{
+  "name": "voyager",
+  "homepage": "https://github.com/hortonworks/voyager",
+  "version": "0.7.2",
+  "_release": "0.7.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.7.2",
+    "commit": "964068163cb7062feb020c46767d2daa3f087bfe"
+  },
+  "_source": "https://github.com/hortonworks/voyager.git",
+  "_target": "0.7.2",
+  "_originalSource": "https://github.com/hortonworks/voyager.git"
+}
